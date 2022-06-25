@@ -1,0 +1,12 @@
+[Sat Jun 25 23:54:31 2022] Ilosc porownanych bitow: 800
+[Sat Jun 25 23:54:31 2022] Ilosc roznych bitow: 0
+[Sat Jun 25 23:54:31 2022] Wynik BER: 0.000000%
+[Sat Jun 25 23:54:31 2022] Czas obliczen: 0s
+[Sat Jun 25 23:54:50 2022] Ilosc porownanych bitow: 800
+[Sat Jun 25 23:54:50 2022] Ilosc roznych bitow: 10
+[Sat Jun 25 23:54:50 2022] Wynik BER: 1.250000%
+[Sat Jun 25 23:54:50 2022] Czas obliczen: 0s
+[Sat Jun 25 23:55:46 2022] Ilosc porownanych bitow: -939524096
+[Sat Jun 25 23:55:46 2022] Ilosc roznych bitow: 838860800
+[Sat Jun 25 23:55:46 2022] Wynik BER: 25.000000%
+[Sat Jun 25 23:55:46 2022] Czas obliczen: 0s
